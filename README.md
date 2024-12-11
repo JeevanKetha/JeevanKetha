@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JeevanKetha
 - 👀 I’m interested in developing new skills
-- 🌱 I’m currently learning python and git
+
   
 
 <!---
